@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "pseudo": "Jean Elossy",
+      "likes": 11,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "villle",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem quaerat, voluptas rerum culpa qui quos earum provident nihil vero dolor tenetur eius, adipisci illum omnis ipsa in pariatur porro inventore incidunt sunt necessitatibus natus.",
+      "likes": 59,
+      "author": "zioo"
+    },
+    {
+      "title": "je dois reussir",
+      "author": "willy",
+      "id": "3",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem quaerat, voluptas rerum culpa qui quos earum provident nihil vero dolor tenetur eius, adipisci illum omnis ipsa in pariatur porro inventore incidunt sunt necessitatibus natus.",
+      "likes": 196
+    },
+    {
+      "title": "elost",
+      "author": "Jean Elossy",
+      "id": "hQes3aR",
+      "content": "dghhjf",
+      "likes": 16
+    }
+  ],
+  "users": [
+    {
+      "pseudo": "Jean Elossy",
+      "likes": 2,
+      "id": "1"
+    }
+  ]
+}
